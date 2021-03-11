@@ -1,0 +1,1 @@
+refer to this page https://hironsan.hatenablog.com/entry/implementing-contextual-string-embeddings-for-named-entity-recognition
